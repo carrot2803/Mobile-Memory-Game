@@ -48,8 +48,8 @@ npm start
 
 ## Snippets
 
-Splash Screen
+Splash Screen<br/>
 ![Screenshot 1](assets/snippets/snippet1.png)
 
-Main Screen
-![Video snippet](assets/snippets/snippet2.mp4)
+Main Screen<br/>
+![Video snippet](assets/snippets/snippet2.gif)
