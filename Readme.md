@@ -52,4 +52,4 @@ Splash Screen
 ![Screenshot 1](assets/snippets/snippet1.png)
 
 Main Screen
-![Screenshot 2](assets/snippets/snippet2.MOV)
+![Video snippet](assets/snippets/snippet2.mp4)
